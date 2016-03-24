@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoLKillCounter:jar">
+    <output-path>$PROJECT_DIR$/../spigot 1.8.8/plugins</output-path>
+    <root id="archive" name="LoLKillCounter.jar">
+      <element id="module-output" name="LoLKillCounter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot 1.8.8/craftbukkit.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot 1.8.8/plugins/ClusterAPI-0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

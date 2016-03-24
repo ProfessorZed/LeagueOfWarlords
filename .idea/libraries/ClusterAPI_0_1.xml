@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ClusterAPI-0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../spigot 1.8.8/plugins/ClusterAPI-0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
